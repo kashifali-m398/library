@@ -1,0 +1,24 @@
+body {
+	background-color: #e9ebee;
+	color: #365899;
+}
+
+.navbar {
+	background-color: #365899;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler, .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+
+.holder {
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    max-width: 24%;
+}
+
+.mb-10 {
+	margin-bottom: 10px;
+}

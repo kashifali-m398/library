@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2018 &copy; Library Management System, All rights reserved.</footer>
