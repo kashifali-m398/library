@@ -31,6 +31,10 @@ $ composer install
 ```sh
 $ cd library
 ```
+* Make ".env" file and generate application key
+```sh
+$ php artisan key:generate
+```
 * Assign permissions to bootstrap and storage directories
 ```sh
 $ sudo chmod 777 -R bootstrap
